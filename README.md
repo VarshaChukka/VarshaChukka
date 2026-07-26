@@ -103,8 +103,8 @@ Built an autonomous agent that thinks, acts, and self-corrects to debug and opti
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VarshaChukka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VarshaChukka&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" width="45%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VarshaChukka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VarshaChukka&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" width="48%" />
 
 <br/>
 
