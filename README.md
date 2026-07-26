@@ -29,61 +29,35 @@
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️&nbsp; Technical Skills
 
+## 🛠️&nbsp; Technical Skills
+
 <div align="center">
 
 **Languages & Web**
 <br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,express,mongodb&theme=light" />
+
+<br/><br/>
 
 **AI / ML & Tools**
 <br/>
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-6D28D9?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-4F46E5?style=for-the-badge)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-6D28D9?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface&theme=light" />
+<br/>
 ![LLM](https://img.shields.io/badge/LLM-6D28D9?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-4F46E5?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Core CS**
-<br/>
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-000000?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating_Systems-4F46E5?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Networks](https://img.shields.io/badge/Computer_Networks-2496ED?style=for-the-badge)
-
-**Networking, Cloud & DevOps**
-<br/>
-![Cisco](https://img.shields.io/badge/Routing_%26_Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-6D28D9?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge)
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,html,css,git,github,docker,kubernetes,linux,azure,figma&theme=light" />
+**Networking, Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,azure,git,github&theme=light" />
 
 </div>
-
-<br/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀&nbsp; Featured Projects
