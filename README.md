@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- ===================== BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4F46E5&height=200&section=header&text=Varsha%20Sri%20Chukka&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4F46E5&height=200&section=header&text=your%20name&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
 
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+with+Deep+Learning+%2B+Agentic+AI;PyTorch+%C2%B7+LangGraph+%C2%B7+React+%C2%B7+FastAPI;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+with+Deep+Learning+%2B+Agentic+AI;PyTorch+%C2%B7+LangGraph+%C2%B7+React+%C2%B7+FastAPI" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ===================== SOCIAL LINKS ===================== -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshachukka07/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarshaChukka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[varshachukka07@gmail.comL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourname)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🧭&nbsp; About Me
 
-Bachelor of Engineering in Computer Science with a specialization in Artificial Intelligence and Machine Learning. I enjoy working across Deep Learning, Generative Artificial Intelligence, and Reinforcement Learning, along with Full-Stack Development using React, Node.js, and FastAPI. Comfortable with Networking, Cloud Computing, and DevOps tools such as Docker and Kubernetes. Certified in Cisco Certified Network Associate (Enterprise Networking, Security & Automation), Cisco Certified Network Associate (Switching, Routing & Wireless Essentials), Microsoft Azure Artificial Intelligence Fundamentals, and Introduction to Cyber Security.
+Bachelor of Engineering in Computer Science & Artificial Intelligence and Machine Learning, with a strong interest in Deep Learning, Generative Artificial Intelligence, and Agentic Systems. Comfortable building full-stack applications using React, Node.js, and FastAPI, along with a working foundation in Networking, Cloud Computing, and DevOps tools. Certified in Cisco Networking (CCNA) and Microsoft Azure Artificial Intelligence Fundamentals. Always exploring new tools and turning ideas into working systems.
 
 <br/>
 
@@ -53,10 +53,18 @@ Bachelor of Engineering in Computer Science with a specialization in Artificial 
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-6D28D9?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge)
 
+**Core CS**
+<br/>
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-000000?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-4F46E5?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Networks](https://img.shields.io/badge/Computer_Networks-2496ED?style=for-the-badge)
+
 **Networking, Cloud & DevOps**
 <br/>
 ![Cisco](https://img.shields.io/badge/Routing_%26_Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -67,16 +75,33 @@ Bachelor of Engineering in Computer Science with a specialization in Artificial 
 
 <br/>
 
-<!-- ===================== FEATURED PROJECT ===================== -->
-## 🚀&nbsp; Featured Project
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀&nbsp; Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### Motion-S — Text-to-Sign Language Motion Generation
-*Python · PyTorch · Transformers · FastAPI · React · Three.js · NLP* &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([link])
+*Python · PyTorch · Transformers · FastAPI · React · Three.js* &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([link])
 
-- Real-time 3D sign language animation generator combining deep learning and NLP
-- Transformer-based Seq2Seq architecture with encoder-decoder and positional encoding to generate motion sequences from text
-- Custom data pipeline with tokenization and vocabulary mapping, producing tensors for efficient GPU training
-- 3D avatar animation in Three.js, mapping model output to skeletal joint positions in realtime
+- Turns text into real-time 3D sign language animation
+- Custom Transformer Seq2Seq model generating motion tokens
+- Full pipeline from tokenized text to animated 3D avatar in the browser
+
+</td>
+<td width="50%" valign="top">
+
+### Agentic AI System for SQL Query Debugging & Optimization
+*FastAPI · PostgreSQL · LangGraph · LangChain · Groq* &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([link])
+
+- Autonomous agent that debugs and optimizes SQL queries
+- Detects missing indexes, bad joins, and slow scans on its own
+- Explains fixes in plain English using an integrated LLM
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -85,12 +110,16 @@ Bachelor of Engineering in Computer Science with a specialization in Artificial 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VarshaChukka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaChukka&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" width="45%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarshaChukka&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true&color=8B5CF6&line=8B5CF6" width="95%" />
 
 </div>
 
@@ -101,9 +130,11 @@ Bachelor of Engineering in Computer Science with a specialization in Artificial 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshachukka07/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarshaChukka)
+I'm always open to research collaborations, internships, and interesting engineering problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourname)
 
 <br/>
 
