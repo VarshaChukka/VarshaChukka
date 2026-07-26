@@ -11,9 +11,11 @@
 <br/>
 
 <!-- ===================== SOCIAL LINKS ===================== -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshachukka07/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarshaChukka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshachukka07@gmail.com)
+<a href="https://www.linkedin.com/in/varshachukka07/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+&nbsp;
+<a href="https://github.com/VarshaChukka"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+&nbsp;
+<a href="mailto:varshachukka07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 
 </div>
 
