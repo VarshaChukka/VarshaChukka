@@ -22,14 +22,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🧭&nbsp; About Me
 
-🎓&nbsp; Bachelor Student in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning, with a strong interest in Deep Learning, Generative Artificial Intelligence, and Agentic Systems. 💻&nbsp; Comfortable building full-stack applications using React, Node.js, and FastAPI, along with a working foundation in Networking, Cloud Computing, and DevOps tools. 📜&nbsp; Certified in Cisco Networking (CCNA) and Microsoft Azure Artificial Intelligence Fundamentals. ⚡&nbsp;Always exploring new tools and turning ideas into working systems.
-
-🎓&nbsp; Bachelor of Engineering in Computer Science & Artificial Intelligence and Machine Learning
-🧠&nbsp; Strong interest in Deep Learning, Computer Vision, NLP, LLMs, and Agentic Systems using LangGraph
-💻&nbsp; Comfortable building full-stack applications using React, Node.js, and FastAPI
-☁️&nbsp; Working foundation in Networking, Cloud Computing, and DevOps tools
-📜&nbsp; Certified in Cisco Networking (CCNA) and Microsoft Azure Artificial Intelligence Fundamentals
-⚡&nbsp; Always exploring new tools and turning ideas into working systems
+🎓&nbsp; Bachelor Student in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning, with a 🧠&nbsp; strong interest in Deep Learning, Generative Artificial Intelligence, and Agentic Systems. 💻&nbsp; Comfortable building full-stack applications using React, Node.js, and FastAPI, along with a ☁️&nbsp; working foundation in Networking, Cloud Computing, and DevOps tools. 📜&nbsp; Certified in Cisco Networking (CCNA) and Microsoft Azure Artificial Intelligence Fundamentals. ⚡&nbsp;Always exploring new tools and turning ideas into working systems.
 
 <br/>
 
