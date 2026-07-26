@@ -135,10 +135,11 @@ Built an autonomous agent that thinks, acts, and self-corrects to debug and opti
 
 I'm always open to research collaborations, internships, and interesting engineering problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshachukka07/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshachukka07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarshaChukka)
-
+<a href="https://www.linkedin.com/in/varshachukka07/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40" /></a>
+&nbsp;
+<a href="https://github.com/VarshaChukka"><img src="https://skillicons.dev/icons?i=github&theme=light" width="40" /></a>
+&nbsp;
+<a href="mailto:varshachukka07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" /></a>
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:6D28D9&height=100&section=footer" />
