@@ -116,16 +116,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VarshaChukka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaChukka&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" width="45%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarshaChukka&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="70%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true&color=8B5CF6&line=8B5CF6" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VarshaChukka&theme=tokyo-night&hide_border=true&area=true&color=8B5CF6&line=8B5CF6" width="95%" />
 
 </div>
 
