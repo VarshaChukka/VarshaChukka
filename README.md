@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4F46E5&height=200&section=header&text=your%20name&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4F46E5&height=200&section=header&text=Varsha%20Sri%20Chukka&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
 
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <a href="https://git.io/typing-svg">
@@ -11,9 +11,9 @@
 <br/>
 
 <!-- ===================== SOCIAL LINKS ===================== -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourname)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshachukka07/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarshaChukka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshachukka07@gmail.com)
 
 </div>
 
@@ -22,7 +22,14 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🧭&nbsp; About Me
 
-Bachelor of Engineering in Computer Science & Artificial Intelligence and Machine Learning, with a strong interest in Deep Learning, Generative Artificial Intelligence, and Agentic Systems. Comfortable building full-stack applications using React, Node.js, and FastAPI, along with a working foundation in Networking, Cloud Computing, and DevOps tools. Certified in Cisco Networking (CCNA) and Microsoft Azure Artificial Intelligence Fundamentals. Always exploring new tools and turning ideas into working systems.
+🎓&nbsp; Bachelor Student in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning, with a strong interest in Deep Learning, Generative Artificial Intelligence, and Agentic Systems. 💻&nbsp; Comfortable building full-stack applications using React, Node.js, and FastAPI, along with a working foundation in Networking, Cloud Computing, and DevOps tools. 📜&nbsp; Certified in Cisco Networking (CCNA) and Microsoft Azure Artificial Intelligence Fundamentals. ⚡&nbsp;Always exploring new tools and turning ideas into working systems.
+
+🎓&nbsp; Bachelor of Engineering in Computer Science & Artificial Intelligence and Machine Learning
+🧠&nbsp; Strong interest in Deep Learning, Computer Vision, NLP, LLMs, and Agentic Systems using LangGraph
+💻&nbsp; Comfortable building full-stack applications using React, Node.js, and FastAPI
+☁️&nbsp; Working foundation in Networking, Cloud Computing, and DevOps tools
+📜&nbsp; Certified in Cisco Networking (CCNA) and Microsoft Azure Artificial Intelligence Fundamentals
+⚡&nbsp; Always exploring new tools and turning ideas into working systems
 
 <br/>
 
@@ -46,12 +53,18 @@ Bachelor of Engineering in Computer Science & Artificial Intelligence and Machin
 
 **AI / ML & Tools**
 <br/>
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6D28D9?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-4F46E5?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-6D28D9?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-6D28D9?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-4F46E5?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-6D28D9?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge)
 
 **Core CS**
 <br/>
@@ -85,9 +98,9 @@ Bachelor of Engineering in Computer Science & Artificial Intelligence and Machin
 ### Motion-S — Text-to-Sign Language Motion Generation
 *Python · PyTorch · Transformers · FastAPI · React · Three.js* &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([link])
 
-- Turns text into real-time 3D sign language animation
-- Custom Transformer Seq2Seq model generating motion tokens
-- Full pipeline from tokenized text to animated 3D avatar in the browser
+- Converts raw text into fluid, real-time 3D sign language animation — bridging a real accessibility gap
+- Designed a custom Transformer-based Seq2Seq architecture from scratch to generate motion tokens directly from language
+- Built an end-to-end pipeline — text → tokens → 3D avatar — rendering natural sign motion live in the browser
 
 </td>
 <td width="50%" valign="top">
@@ -95,9 +108,9 @@ Bachelor of Engineering in Computer Science & Artificial Intelligence and Machin
 ### Agentic AI System for SQL Query Debugging & Optimization
 *FastAPI · PostgreSQL · LangGraph · LangChain · Groq* &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([link])
 
-- Autonomous agent that debugs and optimizes SQL queries
-- Detects missing indexes, bad joins, and slow scans on its own
-- Explains fixes in plain English using an integrated LLM
+- Built an autonomous agent that thinks, acts, and self-corrects to debug and optimize SQL queries without human input
+- Automatically detects real-world performance killers — missing indexes, inefficient joins, slow full-table scans
+- Reads live database schemas on the fly and rewrites broken queries with clear, human-readable reasoning behind every fix
 
 </td>
 </tr>
@@ -132,9 +145,9 @@ Bachelor of Engineering in Computer Science & Artificial Intelligence and Machin
 
 I'm always open to research collaborations, internships, and interesting engineering problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshachukka07/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshachukka07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarshaChukka)
 
 <br/>
 
