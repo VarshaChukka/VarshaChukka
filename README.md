@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4F46E5&height=200&section=header&text=Varsha Sri Chukka&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20SR%20University&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4F46E5&height=200&section=header&text=Varsha Sri Chukka &fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20SR%20University&descAlignY=58&descSize=18" />
 
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <a href="https://git.io/typing-svg">
