@@ -84,14 +84,14 @@
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀&nbsp; Featured Projects
 
-**🤟[Motion-S — Text-to-Sign Language Motion Generation]((https://github.com/VarshaChukka/Text-to-Sign_Language_Motion_Generation))**
+**🤟[Motion-S — Text-to-Sign Language Motion Generation](https://github.com/VarshaChukka/Text-to-Sign_Language_Motion_Generation)**
 *Python · PyTorch · Transformers · FastAPI · React · Three.js*
 
 Converts raw text into fluid, real-time 3D sign language animation — bridging a real accessibility gap. Designed a custom Transformer-based Seq2Seq architecture from scratch to generate motion tokens directly from language, then built an end-to-end pipeline — text → tokens → 3D avatar — rendering natural sign motion live in the browser.
 
 <br/>
 
-**🧠[Agentic AI System for SQL Query Debugging & Optimization]((https://github.com/VarshaChukka/SQL_Agentic_AI))**
+**🧠[Agentic AI System for SQL Query Debugging & Optimization](https://github.com/VarshaChukka/SQL_Agentic_AI)**
 *FastAPI · PostgreSQL · LangGraph · LangChain · Groq*
 
 Built an autonomous agent that thinks, acts, and self-corrects to debug and optimize SQL queries without human input. Automatically detects real-world performance killers — missing indexes, inefficient joins, slow full-table scans — reads live database schemas on the fly, and rewrites broken queries with clear, human-readable reasoning behind every fix.
