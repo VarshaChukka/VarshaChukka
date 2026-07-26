@@ -77,6 +77,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,html,css,git,github,docker,kubernetes,linux,azure,figma&theme=light" />
+
 </div>
 
 <br/>
