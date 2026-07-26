@@ -13,9 +13,9 @@
 <!-- ===================== SOCIAL LINKS ===================== -->
 <a href="https://www.linkedin.com/in/varshachukka07/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
 &nbsp;
-<a href="https://github.com/VarshaChukka"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+<a href="https://github.com/VarshaChukka"><img src="https://skillicons.dev/icons?i=github&theme=light" width="40" /></a>
 &nbsp;
-<a href="mailto:varshachukka07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+<a href="mailto:varshachukka07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" /></a>
 
 </div>
 
